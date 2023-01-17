@@ -2,8 +2,10 @@
 
 
 
-- 🔭 I’m currently working on Angular projects
-- 🌱 I’m currently studing to get Angular Expert Certificated.
+- 🔭 I’m currently working on Angular project.
+- 💟 I love develop libraries & UI components.
+- 💻 I’m currently studying and developing algorithms.
+- 🌟 Quality, Reactivity, Testing, Stability and Delivery is my motto code
 
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
