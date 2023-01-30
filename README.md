@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on Angular project.
 - 💟 I love develop libraries & UI components.
-- 💻 I’m currently studying and developing algorithms.
 - 🌟 Quality, Reactivity, Testing, Stability and Delivery is my motto code
 
 
